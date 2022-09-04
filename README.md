@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @scurkerwork
+- 👀 I’m interested in all things related to JavaScript and Typescript.
+- 🌱 I’m currently learning Web3.js.
+- 💞️ I’m looking to collaborate on new JavaScript frameworks and libraries.
